@@ -1,0 +1,16 @@
+584b36f51a2e1bbef60f147b7f07002e *DESCRIPTION
+92c82e3e80fcde0af7ea5b4aaafa34fb *NAMESPACE
+3ea8d1a62f545a9828e659a5b65078b6 *NEWS
+3fabb10b6a196101882863f1c819ad71 *R/onset.test.R
+77a9146412af5eb47a193bd044d268d2 *build/vignette.rds
+dcc57255973abd1955435d46d3642e13 *data/RoeDeerMassData.RData
+61c205331835aef7cbeeea66587ff5d4 *inst/CITATION
+d32239bcb673463ab874e80d47fae504 *inst/COPYING
+afc0db49b6ffe87f76635acdcfd2cf78 *inst/doc/RoeDeerMass-simulation.R
+bc5ab8a7598ea5096d9501c515495fb5 *inst/doc/RoeDeerMass-simulation.Rnw
+ca51ab46ee1e75ac40ec77aa67f01320 *inst/doc/RoeDeerMass-simulation.pdf
+826c6977faf7a2f7d2900ce43563918c *man/RoeDeerMassData.Rd
+6c7a088cf16e46a70777aaac18a06945 *man/onset.test.Rd
+bc5ab8a7598ea5096d9501c515495fb5 *vignettes/RoeDeerMass-simulation.Rnw
+c34c2b384e0887ededcf4cba46357747 *vignettes/bibli.bib
+59edcbef45afebb72c9739f8abf2c529 *vignettes/pre-computed-simulation.RData

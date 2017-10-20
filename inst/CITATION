@@ -1,0 +1,25 @@
+citEntry(
+  # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  # BibTeX entry:
+  # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+    entry = "article",
+    author = "Douhard, Frederic and Gaillard, Jean-Michel and Pellerin, Maryline and Jacob, Laurent and Lemaitre, Jean-Francois",
+    title = "The cost of growing large: costs of post-weaning growth on body mass senescence in a wild mammal",
+    journal = "Oikos",
+    volume = "126",
+    number = "9",
+    pages = "1329--1338",
+    publisher = "Blackwell Publishing Ltd",
+    issn = "1600-0706",
+    url = "http://dx.doi.org/10.1111/oik.04421",
+    doi = "10.1111/oik.04421",
+    year = "2017",
+  # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  # Plain-text citation:
+  # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    textVersion = paste("Douhard, F., Gaillard, J.-M., Pellerin, M., Jacob, L. and Lemaître, J.-F. (2017),",
+                        "The cost of growing large: costs of post-weaning growth on body mass senescence in a wild mammal.",
+                        "Oikos, 126: 1329–1338.", 
+                        "doi:10.1111/oik.04421"
+                        )
+)

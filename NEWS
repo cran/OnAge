@@ -1,0 +1,7 @@
+* OnAge 1.0-1: First release
+
+* August 28th 2017: created. 'OnAge' implements a likelihood ratio test
+of differential onset on senescence. Given two populations with
+measured ages and a senescence factor (e.g. body mass), 'OnAge' provides
+an asymptotic p-value for the null hypothesis that senescence starts
+at the same age in both populations.
